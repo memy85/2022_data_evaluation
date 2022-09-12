@@ -2,7 +2,7 @@
 - author : Won Seok Jang
 ---
 1. Utility
-  - KL divergence
+  - Hellinger Metric
   - log cluster
   - TSTR
 
@@ -10,4 +10,8 @@
   - identity disclosure
   - attribute disclosure
 
-
+---
+Download data typing the following command in the terminal
+```
+gdown https://drive.google.com/uc?id=1wulIkuLm69d2dTZjyksmH6evFx9GYDkX
+```
